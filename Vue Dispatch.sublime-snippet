@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+t.\$store.dispatch('$1').then(response => {
+	console.log(response)
+})
+    	]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>dispatch</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <!--<scope>source.vue</scope> -->
+    <!-- Optional: Description to show in the menu -->
+    <description>Vue dispatch</description>
+</snippet>

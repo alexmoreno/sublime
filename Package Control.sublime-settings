@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"ignored_packages":
+	[
+		"WakaTime"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ayu",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"HTMLBeautify",
+		"Indent XML",
+		"JavaScriptNext - ES6 Syntax",
+		"JSON Reindent",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets",
+		"WakaTime"
+	]
+}

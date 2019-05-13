@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+t.\$store.commit('SET_$1', obj)
+    	]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>commit</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <!--<scope>source.vue</scope> -->
+    <!-- Optional: Description to show in the menu -->
+    <description>Vue commit</description>
+</snippet>
